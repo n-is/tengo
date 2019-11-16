@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestBuiltin(t *testing.T) {

@@ -3,7 +3,7 @@ package runtime_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestObjectsLimit(t *testing.T) {

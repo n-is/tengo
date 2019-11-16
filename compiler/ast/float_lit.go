@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/d5/tengo/compiler/source"
+import "github.com/n-is/tengo/compiler/source"
 
 // FloatLit represents a floating point literal.
 type FloatLit struct {

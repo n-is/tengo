@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/script"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/script"
 )
 
 type M map[string]interface{}

@@ -3,7 +3,7 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // RemoveDuplicates finds and remove the duplicate values in Constants.

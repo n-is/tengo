@@ -3,8 +3,8 @@ package parser_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 func TestLogical(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // ImmutableMap represents an immutable map object.

@@ -3,8 +3,8 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 func (c *Compiler) compileAssign(node ast.Node, lhs, rhs []ast.Expr, op token.Token) error {

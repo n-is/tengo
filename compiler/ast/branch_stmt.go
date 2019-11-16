@@ -1,8 +1,8 @@
 package ast
 
 import (
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // BranchStmt represents a branch statement.

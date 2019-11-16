@@ -3,7 +3,7 @@ package objects
 import (
 	"fmt"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // Error represents a string value.

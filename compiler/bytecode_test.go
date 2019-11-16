@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/objects"
 )
 
 type srcfile struct {

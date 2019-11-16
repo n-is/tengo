@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestString(t *testing.T) {

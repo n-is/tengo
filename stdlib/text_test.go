@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestTextRE(t *testing.T) {

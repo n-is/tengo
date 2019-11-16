@@ -3,9 +3,9 @@ package objects_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler/token"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler/token"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestObject_TypeName(t *testing.T) {

@@ -15,10 +15,10 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/scanner"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/scanner"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 type bailout struct{}

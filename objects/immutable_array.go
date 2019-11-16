@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // ImmutableArray represents an immutable array of objects.

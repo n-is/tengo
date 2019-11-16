@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/d5/tengo/compiler/source"
+import "github.com/n-is/tengo/compiler/source"
 
 // IfStmt represents an if statement.
 type IfStmt struct {

@@ -2,7 +2,7 @@ package stdlib
 
 //go:generate go run gensrcmods.go
 
-import "github.com/d5/tengo/objects"
+import "github.com/n-is/tengo/objects"
 
 // AllModuleNames returns a list of all default module names.
 func AllModuleNames() []string {

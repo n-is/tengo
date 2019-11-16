@@ -3,8 +3,8 @@ package runtime_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/stdlib"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/stdlib"
 )
 
 func TestSourceModules(t *testing.T) {

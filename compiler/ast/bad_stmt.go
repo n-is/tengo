@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/d5/tengo/compiler/source"
+import "github.com/n-is/tengo/compiler/source"
 
 // BadStmt represents a bad statement.
 type BadStmt struct {

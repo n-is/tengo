@@ -3,7 +3,7 @@ package ast
 import (
 	"strings"
 
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // File represents a file unit.

@@ -12,7 +12,7 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // Decode parses the JSON-encoded data and returns the result object.

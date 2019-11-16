@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"github.com/d5/tengo/cli"
-	"github.com/d5/tengo/stdlib"
+	"github.com/n-is/tengo/cli"
+	"github.com/n-is/tengo/stdlib"
 )
 
 var (

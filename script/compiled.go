@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/runtime"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/runtime"
 )
 
 // Compiled is a compiled instance of the user script.

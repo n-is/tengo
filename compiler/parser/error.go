@@ -3,7 +3,7 @@ package parser
 import (
 	"fmt"
 
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // Error represents a parser error.

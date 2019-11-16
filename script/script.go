@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/compiler/parser"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/runtime"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/compiler/parser"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/runtime"
 )
 
 // Script can simplify compilation and execution of embedded scripts.

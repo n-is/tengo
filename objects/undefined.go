@@ -1,6 +1,6 @@
 package objects
 
-import "github.com/d5/tengo/compiler/token"
+import "github.com/n-is/tengo/compiler/token"
 
 // Undefined represents an undefined value.
 type Undefined struct{}

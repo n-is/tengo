@@ -1,6 +1,6 @@
 package objects
 
-import "github.com/d5/tengo/compiler/token"
+import "github.com/n-is/tengo/compiler/token"
 
 // Object represents an object in the VM.
 type Object interface {

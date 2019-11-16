@@ -1,7 +1,7 @@
 package runtime
 
 import (
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // Frame represents a function call frame.

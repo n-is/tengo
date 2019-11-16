@@ -1,6 +1,6 @@
 package compiler
 
-import "github.com/d5/tengo/compiler/source"
+import "github.com/n-is/tengo/compiler/source"
 
 func (c *Compiler) currentInstructions() []byte {
 	return c.scopes[c.scopeIndex].instructions

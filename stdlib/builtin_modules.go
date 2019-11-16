@@ -1,6 +1,6 @@
 package stdlib
 
-import "github.com/d5/tengo/objects"
+import "github.com/n-is/tengo/objects"
 
 // BuiltinModules are builtin type standard library modules.
 var BuiltinModules = map[string]map[string]objects.Object{

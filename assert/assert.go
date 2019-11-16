@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
+	"github.com/n-is/tengo/objects"
 )
 
 // NoError asserts err is not an error.

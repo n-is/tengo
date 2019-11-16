@@ -1,9 +1,9 @@
 package compiler
 
 import (
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/parser"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/parser"
+	"github.com/n-is/tengo/objects"
 )
 
 func (c *Compiler) checkCyclicImports(node ast.Node, modulePath string) error {

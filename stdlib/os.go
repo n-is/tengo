@@ -7,8 +7,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/objects"
 )
 
 var osModule = map[string]objects.Object{

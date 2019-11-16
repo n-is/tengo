@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/d5/tengo/compiler/token"
+import "github.com/n-is/tengo/compiler/token"
 
 var stmtStart = map[token.Token]bool{
 	token.Break:    true,

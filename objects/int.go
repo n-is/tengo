@@ -3,7 +3,7 @@ package objects
 import (
 	"strconv"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // Int represents an integer value.

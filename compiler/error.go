@@ -3,8 +3,8 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // Error represents a compiler error.

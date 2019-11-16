@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // ErrorList is a collection of parser errors.

@@ -21,7 +21,7 @@ Embedding and executing the Tengo code in Go is very easy. At a high level, this
 The following is an example where a Tengo script is compiled and run with no input/output variables.
 
 ```golang
-import "github.com/d5/tengo/script"
+import "github.com/n-is/tengo/script"
 
 var code = `
 reduce := func(seq, fn) {
@@ -47,7 +47,7 @@ Here's another example where an input variable is added to the script, and, an o
 import (
 	"fmt"
 
-	"github.com/d5/tengo/script"
+	"github.com/n-is/tengo/script"
 )
 
 func main() {

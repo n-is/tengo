@@ -2,7 +2,7 @@ package stdlib
 
 import (
 	"encoding/hex"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 var hexModule = map[string]objects.Object{

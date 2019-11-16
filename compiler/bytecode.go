@@ -6,8 +6,8 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/objects"
 )
 
 // Bytecode is a compiled instructions and constants.

@@ -6,11 +6,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/parser"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/parser"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 type pfn func(int, int) source.Pos       // position conversion function

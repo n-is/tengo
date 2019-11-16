@@ -3,7 +3,7 @@ package compiler_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/compiler"
+	"github.com/n-is/tengo/compiler"
 )
 
 func TestCompilerDeadCode(t *testing.T) {

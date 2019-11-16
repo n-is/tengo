@@ -1,6 +1,6 @@
 package objects
 
-import "github.com/d5/tengo"
+import "github.com/n-is/tengo"
 
 func builtinString(args ...Object) (Object, error) {
 	argsLen := len(args)

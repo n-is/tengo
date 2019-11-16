@@ -8,11 +8,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
+	"github.com/n-is/tengo/objects"
 )
 
 // Compiler compiles the AST into a bytecode.

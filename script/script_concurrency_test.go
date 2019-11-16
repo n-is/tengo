@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/script"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/script"
 )
 
 func TestScriptConcurrency(t *testing.T) {

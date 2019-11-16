@@ -1,6 +1,6 @@
 package compiler
 
-import "github.com/d5/tengo/compiler/source"
+import "github.com/n-is/tengo/compiler/source"
 
 // CompilationScope represents a compiled instructions
 // and the last two instructions that were emitted.

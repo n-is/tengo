@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler"
 )
 
 func TestInstructions_String(t *testing.T) {

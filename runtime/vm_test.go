@@ -8,14 +8,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/compiler/ast"
-	"github.com/d5/tengo/compiler/parser"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/runtime"
-	"github.com/d5/tengo/stdlib"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/compiler/ast"
+	"github.com/n-is/tengo/compiler/parser"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/runtime"
+	"github.com/n-is/tengo/stdlib"
 )
 
 const testOut = "out"

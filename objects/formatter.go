@@ -5,7 +5,7 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"github.com/d5/tengo"
+	"github.com/n-is/tengo"
 )
 
 // Strings for use with buffer.WriteString.

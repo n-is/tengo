@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestNumObjects(t *testing.T) {

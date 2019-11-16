@@ -12,7 +12,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // Encode returns the JSON encoding of the object.

@@ -1,7 +1,7 @@
 package objects
 
 import (
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // ObjectPtr represents a free variable.

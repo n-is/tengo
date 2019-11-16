@@ -4,8 +4,8 @@ import (
 	"bytes"
 	gojson "encoding/json"
 
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/stdlib/json"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/stdlib/json"
 )
 
 var jsonModule = map[string]objects.Object{

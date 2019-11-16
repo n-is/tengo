@@ -3,8 +3,8 @@ package objects
 import (
 	"bytes"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // Bytes represents a byte array.

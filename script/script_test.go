@@ -3,10 +3,10 @@ package script_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/objects"
-	"github.com/d5/tengo/script"
-	"github.com/d5/tengo/stdlib"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/objects"
+	"github.com/n-is/tengo/script"
+	"github.com/n-is/tengo/stdlib"
 )
 
 func TestScript_Add(t *testing.T) {

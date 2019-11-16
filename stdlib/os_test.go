@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestReadFile(t *testing.T) {

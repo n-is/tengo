@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/cli"
-	"github.com/d5/tengo/stdlib"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/cli"
+	"github.com/n-is/tengo/stdlib"
 )
 
 func TestCLICompileAndRun(t *testing.T) {

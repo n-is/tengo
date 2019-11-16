@@ -3,8 +3,8 @@ package objects
 import (
 	"strconv"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // String represents a string value.

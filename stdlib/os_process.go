@@ -4,7 +4,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 func makeOSProcessState(state *os.ProcessState) *objects.ImmutableMap {

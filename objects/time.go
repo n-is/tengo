@@ -3,7 +3,7 @@ package objects
 import (
 	"time"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // Time represents a time value.

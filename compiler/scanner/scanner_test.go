@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler/scanner"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler/scanner"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 var testFileSet = source.NewFileSet()

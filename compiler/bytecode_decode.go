@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // Decode reads Bytecode data from the reader.

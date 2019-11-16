@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/d5/tengo"
+	"github.com/n-is/tengo"
 )
 
 // ToString will try to convert object o to string value.

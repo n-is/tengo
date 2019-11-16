@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler"
-	"github.com/d5/tengo/compiler/parser"
-	"github.com/d5/tengo/compiler/source"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler"
+	"github.com/n-is/tengo/compiler/parser"
+	"github.com/n-is/tengo/compiler/source"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestCompiler_Compile(t *testing.T) {

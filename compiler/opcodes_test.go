@@ -3,8 +3,8 @@ package compiler_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/assert"
-	"github.com/d5/tengo/compiler"
+	"github.com/n-is/tengo/assert"
+	"github.com/n-is/tengo/compiler"
 )
 
 func TestReadOperands(t *testing.T) {

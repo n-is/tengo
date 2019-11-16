@@ -4,7 +4,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/d5/tengo/compiler/token"
+	"github.com/n-is/tengo/compiler/token"
 )
 
 // Float represents a floating point number value.

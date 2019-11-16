@@ -1,6 +1,6 @@
 package objects
 
-import "github.com/d5/tengo/compiler/token"
+import "github.com/n-is/tengo/compiler/token"
 
 // ArrayIterator is an iterator for an array.
 type ArrayIterator struct {

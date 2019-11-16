@@ -1,6 +1,6 @@
 package stdlib
 
-import "github.com/d5/tengo/objects"
+import "github.com/n-is/tengo/objects"
 
 func wrapError(err error) objects.Object {
 	if err == nil {

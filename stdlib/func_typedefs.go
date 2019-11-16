@@ -3,8 +3,8 @@ package stdlib
 import (
 	"fmt"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/objects"
 )
 
 // FuncAR transform a function of 'func()' signature

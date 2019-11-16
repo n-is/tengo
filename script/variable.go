@@ -3,7 +3,7 @@ package script
 import (
 	"errors"
 
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo/objects"
 )
 
 // Variable is a user-defined variable for the script.

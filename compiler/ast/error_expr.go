@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // ErrorExpr represents an error expression

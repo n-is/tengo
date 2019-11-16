@@ -3,8 +3,8 @@ package runtime_test
 import (
 	"testing"
 
-	"github.com/d5/tengo"
-	"github.com/d5/tengo/objects"
+	"github.com/n-is/tengo"
+	"github.com/n-is/tengo/objects"
 )
 
 func TestBuiltinFunction(t *testing.T) {

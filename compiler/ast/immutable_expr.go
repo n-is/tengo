@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/d5/tengo/compiler/source"
+	"github.com/n-is/tengo/compiler/source"
 )
 
 // ImmutableExpr represents an immutable expression
